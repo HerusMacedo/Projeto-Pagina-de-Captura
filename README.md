@@ -1,2 +1,2 @@
 # Projeto-Pagina-de-Captura
- Aprendendo conceitos de Git e GitHub e Primeiro Prototipo de Site
+ Aprendendo conceitos de Git e GitHub e Primeiro Protótipo de Site
