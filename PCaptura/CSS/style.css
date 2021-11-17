@@ -1,0 +1,126 @@
+* {
+
+    margin: 0;
+    padding: 0;
+     
+}
+
+body {
+
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    
+    }
+    
+
+.titulo {
+
+color:white;
+background-color: blue;
+margin: 0;
+padding: 10px;
+text-align: center;
+font-family: 'Road Rage', cursive;
+
+
+}
+
+h2{
+
+font-size: 16px;
+
+}
+
+.conteudo {
+
+max-width: 1000px;
+margin: auto;
+
+}
+
+section {
+
+    background-image: url(../Imagens/people.jpg);
+    padding: 20px ;
+    background-size: cover;
+     overflow: hidden;
+
+}
+
+.formulario {
+
+max-width: 230px;
+background-color: #FFFFFFBB;
+padding: 20px;
+float: right;
+
+}
+
+.mb {
+
+margin-bottom: 10px;
+
+}
+
+input,select {
+
+   
+border: none;
+margin: 5px;
+padding: 10px;
+
+
+}
+
+input[type="submit"] {
+
+color: white;
+background-color: turquoise;
+font-weight: bold;
+
+
+}
+
+select {
+
+-moz-appearance: none;
+-webkit-appearance: none;
+appearance: none;
+background-image: url(../Imagens/arrow.jpg);
+background-repeat: no-repeat;
+background-position-x: calc(100% - 10px);
+background-position-y: center;
+
+}
+
+footer{
+
+background-color: gray;    
+padding: 40px;
+text-align: center;
+
+}
+
+
+
+
+.imagem{
+
+width: 160px;    
+ 
+
+}
+
+.descriçao{
+
+display: inline-block;
+color: white;    
+max-width: 40%;
+margin-left: 40px;
+text-align: justify;
+}
+
+.descriçao h3, .descriçao p{
+
+margin-bottom: 30px;
+}
